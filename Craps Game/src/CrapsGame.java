@@ -14,6 +14,9 @@ public class CrapsGame
 				winOrLose();
 
 			}
+		
+		//test commit from home - didn't change anything
+		
 		//Global Method - available in all of the methods, not just local
 		static String name;
 		static int totalDice;
